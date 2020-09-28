@@ -39,6 +39,7 @@
     border: 1px solid var(--color-border);
     border-radius: 4px;
     padding: 10px;
+    height: 165px;
 }
 
 .p-profiles .profile-head .c-history.x3 {
@@ -49,6 +50,8 @@
     padding: 10px;
     width: 23%;
     margin-left: 20px;
+    margin-top: 131px;
+    padding-bottom: 8px;
 }
 
 .p-profiles .profile-head .c-brief .avatar {
