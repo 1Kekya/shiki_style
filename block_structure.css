@@ -1,0 +1,43 @@
+/* Блочная структура */
+#profiles_show .l-page {
+    padding-left: 0;
+    padding-right: 0;
+    background: transparent;
+
+}
+
+#profiles_show .block {
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 10px;
+    background: var(--color-background);
+}
+
+.p-profiles-show.x1200 .profile-content .c-left {
+    margin-right: 20px;
+    width: calc(77% - 20px);
+}
+
+.p-profiles-show.x1200 .profile-content .c-right {
+    width: 23%;
+}
+.p-profiles-show.x1200 .profile-content .c-right .cc-2a>.c-column {
+    margin-right: 0;
+    width: 100%;
+}
+
+.p-profiles-show.x1200 .profile-content .c-right>.block:last-child, .p-profiles-show.x1200 .profile-content .c-right>.subcontent:last-child {
+    margin-bottom: 0;
+    display: none;
+}
+
+.p-profiles .profile-head .c-info {
+    overflow: hidden;
+    width: calc(77% - 20px);
+    background: var(--color-background);
+    margin-bottom: 20px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 10px;
+}
+/* Блочная структура */
