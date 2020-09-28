@@ -75,4 +75,19 @@
     z-index: -1;
     border: 1px solid var(--color-border);
 }
+
+.p-profiles .profile-head .c-brief header {
+    overflow: visible;
+    float: left;
+    white-space: nowrap;
+    background: var(--color-background);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 10px;
+    width: calc(77% - 202px);
+    height: 80px;
+    margin-left: 182px;
+    margin-top: -98px;
+    margin-bottom: 0px;
+}
 /* Блочная структура */
